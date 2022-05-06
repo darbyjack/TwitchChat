@@ -1,0 +1,6 @@
+name: TwitchChat
+version: '${version}'
+main: me.glaremasters.twitchchat.TwitchChat
+api-version: 1.18
+authors: [ Glare ]
+description: Watch Twitch Chat of your favorite streamer in-game
